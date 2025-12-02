@@ -1,0 +1,3 @@
+# AI Personal Safety Guardian – 100-Word Pitch
+
+AI Personal Safety Guardian is a full-stack web app that uses Google Gemini AI to analyze real-world safety situations in real time. Users can submit text, images, videos, audio recordings, or share their live location to get instant threat assessments. The system detects potential risks like being followed, dark isolated areas, aggressive sounds, or escalating conflicts, and classifies them from low to critical. It then suggests clear, practical actions and safe routes to nearby secure places, with an intuitive chat-style interface designed for quick use during stressful or emergency situations in everyday urban environments.
